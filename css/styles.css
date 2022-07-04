@@ -1,8 +1,8 @@
 body {
     background-color: lightgrey;
-    width: 60%;
-    font-family:"Montserrat-Bold";
-    margin:auto;
+    width: 75%;
+    font-family: "Montserrat-Bold";
+    margin: auto;
 }
 
 hr {
@@ -14,19 +14,19 @@ hr {
 
 h1 {
     color: rgb(13, 146, 146);
-    text-shadow:2px 2px 2px  black;
+    text-shadow: 2px 2px 2px black;
 }
 
 h2 {
     color: rgb(13, 146, 146);
-    text-shadow:2px 2px 2px black;
-    text-align:center;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
 }
 
-.skillsalign{
+.skillsalign {
     padding-right: 22px;
 }
 
-.skillsalign2{
+.skillsalign2 {
     padding-left: 22px;
 }
